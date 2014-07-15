@@ -8,6 +8,7 @@ fluid.fortron=Fortron
 # Chat Messages
 death.attack.areaDefense=%1$s heeft de waarschuwingen genegeerd en heeft een schok gekregen.
 death.attack.fieldShock=%1$s heeft een schok gekregen van het krachtveld.
+
 message.cardFrequency.generated=Willekeurige frequentie:
 message.cardFrequency.set=Gekozen frequentie: %p
 message.remoteController.linked=Gelinkt met locatie: %p en blok: %q
